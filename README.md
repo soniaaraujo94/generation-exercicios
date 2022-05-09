@@ -1,2 +1,2 @@
 # generation-exercicios
-Exercícios de Desenvolvimento Mobile realizados no bootcamp da Generation
+Exercícios de Portugol realizados durante o Bootcamp da Generation
